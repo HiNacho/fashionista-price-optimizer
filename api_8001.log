@@ -1,0 +1,41 @@
+INFO:     Started server process [22312]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52521 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52535 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52547 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52550 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52566 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52567 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52568 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52569 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52939 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52964 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53055 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53057 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53059 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53082 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53084 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53088 - "POST /optimize_price HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:53322 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53340 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53342 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53391 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53393 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53395 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51281 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51298 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51382 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51484 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51489 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51492 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51723 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52816 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54553 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54856 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55001 - "POST /optimize_price HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22312]
